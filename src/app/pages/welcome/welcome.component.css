@@ -1,0 +1,31 @@
+.contenedor{
+    width: 300px;
+    height: 450px;
+    background-color:white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(187, 186, 186);
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+
+}
+
+.image{
+    width: 90%;
+    display: inline-block;
+    margin: 15px 5px 15px 5px;
+    border-radius: 15px;
+}
+
+.titulo{
+    font-family: 'MiFuentePersonalizada';
+    src: url('C:\javm\Interfaces\second_project\font\Staatliches.tff');
+    color: #f922a3;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 0px; 
+}
+
+.texto{
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
